@@ -1,0 +1,58 @@
+﻿
+.center-div-start {
+	position: absolute;
+	margin: auto;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	text-align: center;
+	width: 500px;
+	height: 250px;
+	border-radius: 3px;
+}
+
+
+.center-div-upload {
+	position: absolute;
+	margin: auto;
+	background-color: lightgray;
+	text-align: center;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	width: 800px;
+	height: 500px;
+	border-radius: 25px;
+}
+
+.center-div-login {
+	position: absolute;
+	margin: auto;
+	background-color: rgba(220, 220, 220, 0.2);
+	text-align: center;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	width: 300px;
+	height: 300px;
+	border-radius: 25px;
+}
+
+.login-btn-div {
+	position: absolute;
+	margin: auto;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+}
+
+.start-buttons {
+	float: left;
+	border-radius: 25px;
+	width: 250px;
+	height: 250px;
+}
